@@ -1,5 +1,5 @@
 //exported class from programmer.js file
-const Programmer = require("./programmer.js");
+const Programmer = require("./programmers.js");
 
 class Team {
 //constructor with a project name and a programmers array
